@@ -1,0 +1,4 @@
+Congrats, you have been navigating branches and making some checkouts.
+If you find this, visit the url and send me a Tweet.
+url: http://xkcd.com/1296/
+
